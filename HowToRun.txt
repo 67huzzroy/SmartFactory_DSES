@@ -1,0 +1,3 @@
+# in the terminal go to DSES/frontend then type
+
+npm run dev
