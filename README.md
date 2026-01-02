@@ -3,7 +3,7 @@
 ## Overview
 SmartFactory DSES is a modern, real-time manufacturing intelligence dashboard designed to monitor and analyze factory performance. It integrates telemetry data, expert system diagnostics, and decision support tools to optimize production efficiency and predict maintenance needs.
 
-![Dashboard Preview](https://via.placeholder.com/800x450?text=SmartFactory+Dashboard+Preview)
+![Dashboard Preview](./assets/dashboard-preview.png)
 
 ## Key Features
 
