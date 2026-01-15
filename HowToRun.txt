@@ -1,5 +1,18 @@
-# in the terminal go to DSES/frontend then type
 
-# cd c:\Users\DAUD\DSES\frontend
+Step 1: Start the Backend (API & Simulator) ON FIRST TERMINAL
+Open a new terminal window at c:\Users\DAUD\DSES and run:
+uvicorn backend.main:app --reload --port 8000
 
+Step 2: Start the Frontend (User Interface) ON SECOND TERMINAL
+Open a second terminal window at c:\Users\DAUD\DSES\frontend and run:
+
+cd c:\Users\DAUD\DSES\frontend
 npm run dev
+
+You should see output like Local: http://localhost:5173/
+
+Step 3: Open in Browser
+Once both are running, simply open your Chrome or Edge browser and navigate to:
+
+http://localhost:5173/
+
